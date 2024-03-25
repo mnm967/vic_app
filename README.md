@@ -18,13 +18,13 @@ git clone https://github.com/mnm967/vic_app.git
 cd vic_app
 ```
 
-4. Install the dependencies:
+3. Install the dependencies:
 
 ```
 flutter pub get
 ```
 
-6. Run the app:
+4. Run the app:
 
 ```
 flutter run
